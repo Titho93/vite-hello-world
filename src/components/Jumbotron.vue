@@ -4,9 +4,7 @@ export default {
 }
 </script>
 <template>
-
-    <h2>Questo è il Jumbotron</h2>
-  
+    <img src="../assets/jedi1.jpg" alt="">
 </template>
 <style>
 
